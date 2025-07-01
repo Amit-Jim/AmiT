@@ -1,13 +1,14 @@
 # Amit Kumar
 
-## Summary
-Results-driven IT Sales Professional with over 6 years of experience in driving revenue growth through strategic client relationships and effective sales strategies. Holds a B.Tech degree in Computer Science and currently pursuing a 1-year Data Analytics for Business Decision Postgraduate Certificate from Durham College, Ontario. Committed to leveraging technical knowledge and analytical skills to make informed business decisions. Actively seeking a challenging role that allows for continuous learning and professional growth, offering a dynamic environment to apply acquired skills.
+I am an aspiring Data Analyst with a strong foundation in computer science and hands-on experience in data visualization, SQL querying, and Python programming. I specialize in transforming complex datasets into clear, actionable insights that support informed decision-making and optimize business performance.
 
-## Skills
-- **Sales & Business Development:** Proven track record in identifying, pursuing, and closing business opportunities. Strong ability to build and maintain client relationships.
-- **Data Analytics:** Currently enhancing analytical skills through a comprehensive program. Proficient in using data to derive insights for informed decision-making.
-- **Technical Acumen:** Solid foundation in computer science, providing a unique blend of technical and business expertise.
-- **Communication:** Excellent interpersonal and communication skills, adept at conveying technical concepts to diverse audiences.
+Passionate about AI and emerging technologies, I actively contribute to the field, including volunteering as an AI Tester with the Project Management Institute (PMI) to improve AI tool quality and functionality.
+
+My projects showcase expertise in building interactive dashboards, conducting trend analysis, and leveraging data storytelling to effectively communicate insights to diverse stakeholders.
+
+I am committed to continuous learning and applying data-driven solutions to solve real-world challenges, particularly in digital media and business intelligence.
+
+Explore my repositories to see how I combine analytics and AI to drive meaningful outcomes.
 
 ## Education
 - **Postgraduate Certificate in Data Analytics for Business Decision**
