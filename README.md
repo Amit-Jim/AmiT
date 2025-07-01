@@ -12,7 +12,10 @@ Explore my repositories to see how I combine analytics and AI to drive meaningfu
 
 ## Education
 - **Postgraduate Certificate in Data Analytics for Business Decision**
-  - *Durham College, Ontario* (Expected Completion: [December 2023])
+  - *Durham College, Ontario* (Expected Completion: ([2023])
+ 
+**Postgraduate Certificate in Project Management**
+  - *Durham College, Ontario* ([2024])
 
 - **Bachelor of Technology in Computer Science**
   - *[Lovely Professional University]* - [2016 passed out]
